@@ -43,7 +43,7 @@ The graphical interface offers a clean and organized layout for streamlined user
 
 ### GUI Overview
 
-![Image Mixer GUI](image.png)
+![Image Mixer GUI](resources/UI.png)
 
 **Descriptions:**
 1. **Input Viewports:** Display original images and their Fourier components.
@@ -64,6 +64,14 @@ The graphical interface offers a clean and organized layout for streamlined user
 4. **Apply Masks:** Toggle between inner or outer region masking and adjust the region size.
 5. **View Results:** Visualize the mixed output in the designated output view.
 6. **Save Results:** Export the mixed image if needed.
+
+---
+
+## Demo Video
+
+Check out the application in action:
+
+[![Watch Demo Video](resources/UI.png)](resources/demo.mp4)
 
 ---
 
@@ -94,21 +102,6 @@ The graphical interface offers a clean and organized layout for streamlined user
    ```bash
    python app.py
    ```
-
----
-
-## Future Enhancements
-
-- Support for RGB image mixing.
-- Integration of advanced Fourier domain filters.
-- Expanded output customization options.
-- Enhanced performance for large image files.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to contribute and adapt the code for your needs.
 
 ---
 
