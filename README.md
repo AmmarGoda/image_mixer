@@ -97,21 +97,6 @@ The graphical interface offers a clean and organized layout for streamlined user
 
 ---
 
-## Future Enhancements
-
-- Support for RGB image mixing.
-- Integration of advanced Fourier domain filters.
-- Expanded output customization options.
-- Enhanced performance for large image files.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE). Feel free to contribute and adapt the code for your needs.
-
----
-
 ## Acknowledgments
 
 This project is part of the **Digital Signal Processing** course. Special thanks to the course instructors and team members for their guidance and support.
