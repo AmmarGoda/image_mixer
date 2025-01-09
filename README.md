@@ -43,7 +43,7 @@ The graphical interface offers a clean and organized layout for streamlined user
 
 ### GUI Overview
 
-![Image Mixer GUI](image.png)
+![Image Mixer GUI](resources/UI.png)
 
 **Descriptions:**
 1. **Input Viewports:** Display original images and their Fourier components.
