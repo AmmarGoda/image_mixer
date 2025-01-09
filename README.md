@@ -67,6 +67,14 @@ The graphical interface offers a clean and organized layout for streamlined user
 
 ---
 
+## Demo Video
+
+Check out the application in action:
+
+[![Watch Demo Video](resources/UI.png)](resources/demo.mp4)
+
+---
+
 ## Installation
 
 ### Prerequisites:
