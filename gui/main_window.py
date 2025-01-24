@@ -12,7 +12,7 @@ from processing.image_processor import ImageProcessor
 from gui.custom_graphics_view import CustomGraphicsView
 from utils.theme import apply_dark_theme
 
-class FourierTransformApp(QMainWindow):
+class ImageMixerApp(QMainWindow):
     def __init__(self):
         super().__init__()
         self.setWindowTitle("Image Mixer")
@@ -256,9 +256,6 @@ class FourierTransformApp(QMainWindow):
                 print("No image selected.")
         except Exception as e:
             print(f"An error occurred while loading the image: {e}")
-
-    
-    
 
     def display_image(self, image, viewport):
         try:

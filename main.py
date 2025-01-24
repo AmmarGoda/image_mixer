@@ -1,11 +1,11 @@
 # main.py
 import sys
 from PyQt5.QtWidgets import QApplication
-from gui.main_window import FourierTransformApp
+from gui.main_window import ImageMixerApp
 
 def main():
     app = QApplication(sys.argv)
-    main_window = FourierTransformApp()
+    main_window = ImageMixerApp()
     main_window.show()
     sys.exit(app.exec_())
 
